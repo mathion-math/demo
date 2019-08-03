@@ -1,0 +1,8 @@
+[package]
+name = "mathion-demo2"
+version = "0.1.0"
+authors = ["A.E.T. <quickwshell@gmail.com>"]
+
+[dependencies]
+mathion = {git = "https://github.com/mathion-math/mathion.git"}
+time = "0.1"
